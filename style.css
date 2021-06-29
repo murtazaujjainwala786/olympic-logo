@@ -1,0 +1,12 @@
+.body_background
+{
+    background-image: url("https://previews.123rf.com/images/rudchenko/rudchenko1307/rudchenko130700044/21145104-abstract-draw-color-pencil-background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#mycanvas
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
